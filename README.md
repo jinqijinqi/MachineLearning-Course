@@ -2,7 +2,7 @@
 # Lecturer: Jin Qi
 这是机器学习课程相关信息的展示平台
 
-# 所有作业（作业1，2，3，7必做，作业4，5，6可以选一个，但鼓励大家都选）
+# 项目作业：
 1. (第二周周四截止）Homework 1--Pytorch Installation 简述!<br/>
    [提交作业模板](https://github.com/jinqijinqi/Artificial-Intelligence-Course/blob/main/homework/%E4%BD%9C%E4%B8%9A%201-%E5%91%A81-pytorch%E5%AE%89%E8%A3%85.docx)<br/>
    [参考pytorch网页](https://pytorch.org/get-started/locally/)<br/>
