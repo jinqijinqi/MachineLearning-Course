@@ -1,4 +1,4 @@
-# NTU-UESTC Machine Learning Course (2024-2025)
+# NTU-UESTC Machine Learning Course (2024-2025，2025-2026)
 # Lecturer: Jin Qi
 这是机器学习课程相关信息的展示平台
 
